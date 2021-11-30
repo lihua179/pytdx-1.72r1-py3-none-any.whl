@@ -1,1 +1,0 @@
-# pytdx-1.72r1-py3-none-any.whl
